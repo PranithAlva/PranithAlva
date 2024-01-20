@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on future
 - 📫 How to reach me at <a> https://www.linkedin.com/in/pranith-alva-4862141b5/ </a>
+- 💼 My toolkit C, C++, Java, HTML, CSS, Javascript, Python, React and Nodejs.
 
 Things planned for 2024 -> 
   - restuarant web page
